@@ -47,8 +47,8 @@ Educational website about home gardening.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhndsalktrwnyat-creator&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhndsalktrwnyat-creator&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedNour-Dev&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNour-Dev&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
