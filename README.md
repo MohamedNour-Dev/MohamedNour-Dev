@@ -40,7 +40,7 @@ A fully responsive personal portfolio website.
 ### 🔹 **Green Life – Agriculture Website**
 Educational website about home gardening.  
 ✔ Clean UI – ✔ Beautiful Layout – ✔ Easy Navigation  
-🔗 **Demo:** _Add link_  
+🔗 **Demo:** _The link_  
 🔗 **Code:** _Repository link_
 
 ---
